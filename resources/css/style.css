@@ -1,0 +1,36 @@
+/* style.css */
+html {
+  font-family: Verdana, Tahoma, sans-serif;
+}
+
+body {
+  background-color: black;
+  text-align: center;
+}
+
+a {
+  color: aquamarine;
+  font-size: 16px;
+}
+
+.heading {
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+  text-align: center;
+}
+
+.subheading {
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+}
+
+p {
+  font-size: 21px;
+  color: gray;
+}
+
+footer {
+  text-align: right;
+}

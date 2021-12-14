@@ -1,11 +1,8 @@
-/* style.css */
-html {
-  font-family: Verdana, Tahoma, sans-serif;
-}
-
 body {
   background-color: black;
   text-align: center;
+  color: white;
+  font-family: Verdana, Tahoma, sans-serif;
 }
 
 a {
@@ -16,14 +13,11 @@ a {
 .heading {
   font-weight: normal;
   font-size: 50px;
-  color: white;
-  text-align: center;
 }
 
 .subheading {
   font-weight: 300;
   font-size: 42px;
-  color: white;
 }
 
 p {
